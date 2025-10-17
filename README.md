@@ -17,3 +17,5 @@ A lightweight CRM to help freelancers manage clients, projects, and invoices eff
 
 1.  **Frontend:** React + Tailwind CSS
 2.  **Backend:** Supabase (Postgres + Auth)
+
+[![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=COPA100)](https://github.com/anuraghazra/github-readme-stats)
