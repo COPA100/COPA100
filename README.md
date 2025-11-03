@@ -1,6 +1,6 @@
 ## Technology Stack
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,typescript,java,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,js,python,cpp,java,html,css)](https://skillicons.dev)
 ### Frameworks/Libraries
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,supabase,postgres,bootstrap)](https://skillicons.dev)
 
