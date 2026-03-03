@@ -1,4 +1,4 @@
-## Technology Stack
+## Stack
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=typescript,js,python,cpp,java)](https://skillicons.dev)
 ### Frameworks/Libraries
